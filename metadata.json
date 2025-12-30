@@ -1,0 +1,7 @@
+{
+  "name": "Document Digitalizer & Formatter",
+  "description": "An application that extracts information from screenshots and formats them into a structured digital document based on a specific template.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
